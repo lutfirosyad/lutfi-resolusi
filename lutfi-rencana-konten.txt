@@ -3,9 +3,11 @@ RENCANA KONTEN LUTFI
 - Javascript
   * ES6
   * Framework Javascript
-   ^ Angular
+   ^ vue
    ^ react
+- Struktur Data dasar 
 - PHP framwork
-   ^ laravel
+  ^ laravel
 - Interview
 - VLogs
+- python
