@@ -4,6 +4,7 @@ RENCANA KONTEN LUTFI
   * ES6
   * Framework Javascript
    ^ vue
+   ^ react
 - Struktur Data dasar 
 - PHP framwork
   ^ laravel
