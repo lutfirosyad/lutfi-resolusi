@@ -5,6 +5,7 @@ RENCANA KONTEN LUTFI
   * Framework Javascript
    ^ vue
    ^ react
+   ^ angular JS
 - Struktur Data dasar 
 - PHP framwork
   ^ laravel
